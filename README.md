@@ -7,7 +7,7 @@ Research topics I'm interested in:
     - Specifically, tariffs and international trade, on prices and production
 - Agent-Based Modeling and Simulation
 - Anything in my daily life that I can try to model and refine
-- Why is data so freaking difficult to obtain for the great questions that exist?
+- Why is data so freaking difficult to obtain for most the questions we care about?
     - And how the heck can we weed out causal effects?
 
 Some methods I enjoy:
