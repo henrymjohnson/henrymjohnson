@@ -16,7 +16,7 @@ Some methods I enjoy:
 - Gravity Models
 - k-NN
 
-In school, I've worked on a few small projects with R (3), a few in python (8), and a couple in stata. I'm working on my thesis (defense tentative for March 2022) in python and submitted research for a competition that was done in stata.
+In school, I've worked on a few small projects with R (3), a few in python (8), and a couple in stata. I'm working on my thesis (defense tentative for April 2022) in python and submitted research for a competition that was done in stata.
 
 At work, I've mostly worked with TSQL. However, I've used python and postman (with javascript and graphql) to automate workflows for various regression tests.
 
