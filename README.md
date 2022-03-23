@@ -13,8 +13,9 @@ Research topics I'm interested in:
 Some methods I enjoy:
 - Conditional statements (you know, really basic "AI")
 - 2SLS
+- Time Series (ARIMA, VAR)
 - Gravity Models
-- k-NN
+- k-NN, Clustering, various classification techniques
 
 In school, I've worked on a few small projects with R (3), a few in python (8), and a couple in stata. I'm working on my thesis (defense tentative for April 2022) in python and submitted research for a competition that was done in stata.
 
