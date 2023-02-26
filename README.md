@@ -1,6 +1,6 @@
 ## About Me
 
-I wrapped up my masters December 2022, successfully defending my thesis on The Impact of the 2018 Wine Tariffs on Domestic Wine in April. Since May 2022, I've been working as a Quality Assurance Engineer and a researcher at Boise State. 
+I wrapped up my masters December 2022, successfully defending my thesis on The Impact of the 2018 Wine Tariffs on Domestic Wine in April. Since May 2022, I've been working as a Quality Assurance Engineer and a researcher. 
 
 Research topics I'm interested in:
 - The impact of policy changes on social welfare
