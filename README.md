@@ -1,6 +1,6 @@
 ## About Me
 
-I wrapped up my masters December 2022, successfully defending my thesis on The Impact of the 2018 Wine Tariffs on Domestic Wine in April. Since May 2022, I've been working as a Quality Assurance Engineer and a researcher. 
+I wrapped up my masters December 2022, successfully defending my thesis on The Impact of the 2018 Wine Tariffs on Domestic Wine in April.
 
 Research topics I'm interested in:
 - The impact of policy changes on social welfare
@@ -12,9 +12,8 @@ Research topics I'm interested in:
     - And how the heck can we weed out causal effects?
 
 Some methods I enjoy:
-- Conditional statements (you know, really basic "AI")
-- 2SLS
 - Time Series (ARIMA, VAR)
+- 2SLS
 - Gravity Models
 - k-NN, Clustering, various classification techniques
 
