@@ -1,6 +1,6 @@
 ## About Me
 
-I wrapped up my masters December 2022, successfully defending my thesis on The Impact of the 2018 Wine Tariffs on Domestic Wine in April.
+I wrapped up my masters December 2022, successfully defending my thesis on The Impact of the 2018 Wine Tariffs on Domestic Wine in April 2022.
 
 Research topics I'm interested in:
 - The impact of policy changes on social welfare
