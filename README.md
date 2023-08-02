@@ -19,4 +19,4 @@ Some methods I enjoy:
 
 If you're interested in chatting or collaborating on a project, feel free to email me at hennrymjohnson@gmail.com.
 
-Thanks for stoppping by!
+Thanks for stopping by!
