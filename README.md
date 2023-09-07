@@ -20,7 +20,7 @@ Some methods I enjoy:
 - Time Series (ARIMA, VAR, State Space)
 - Gravity Models
 - k-NN, Clustering, various classification techniques
-- Causal Inference: 2SLS, IV, SCM (Judea Pearl & Jonas Peters)
+- Causal Inference: 2SLS, DID, IV, SCM (Judea Pearl & Jonas Peters)
     - Shout out to Angrist & Pischke's Mostly Harmless Econometrics
 
 If you're interested in chatting or collaborating on a project, feel free to email me at hennrymjohnson@gmail.com.
