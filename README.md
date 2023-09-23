@@ -14,7 +14,7 @@ Research topics I'm interested in:
         - Recently wrapped up research using structural causal models (specifically ANMs) in the economic development of the Pearl River Delta Region of China with Fragkias
     - Messy data isn't new; econometricians have been identifying workarounds for awhile
         - See: "Data and Econometricians—The Uneasy Alliance" by Zvi Griliches (1985) 
-    - Currently researching the relationship between patents and GNP with Fragkias and Joshaghani
+    - Currently researching the relationship between patents and GMP with Fragkias and Joshaghani
 
 Some methods I enjoy:
 - Time Series (ARIMA, VAR, State Space)
