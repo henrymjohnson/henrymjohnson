@@ -7,13 +7,13 @@ Research topics I'm interested in:
     - Specifically, tariffs and international trade, on prices and production
 - Agent-Based Modeling and Simulation
     - Currently studying Matthew Jackson's Social and Economic Networks textbook
-    - Conducting research with Dr. Michail Fragkias in urban science creation using NetworkX
+    - Using it for research with Dr. Michail Fragkias in urban science creation using NetworkX
 - Anything in my daily life that I can try to model and refine
 - Why is data so freaking difficult to obtain for most the questions we care about?
     - And how the heck can we weed out causal effects?
-        - Recently wrapped up research in the economic development of the Pearl River Delta Region of China with Fragkias
+        - Recently wrapped up research using structural causal models (specifically ANMs) in the economic development of the Pearl River Delta Region of China with Fragkias
     - Messy data isn't new; econometricians have been identifying workarounds for awhile
-        - See: "Data and Econometricians—The Uneasy Alliance" -Griliches
+        - See: "Data and Econometricians—The Uneasy Alliance" by Zvi Griliches (1985) 
     - Currently researching the relationship between patents and GNP with Fragkias and Joshaghani
 
 Some methods I enjoy:
